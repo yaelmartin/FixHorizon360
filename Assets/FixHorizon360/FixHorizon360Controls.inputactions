@@ -110,17 +110,6 @@
                 },
                 {
                     "name": "",
-                    "id": "17c91f69-6581-4c8d-92de-534c2cf735ec",
-                    "path": "<Keyboard>/space",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Attach/Detach",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "87df86dc-5409-4da1-a6a9-5490fb343472",
                     "path": "<Keyboard>/1",
                     "interactions": "",
