@@ -4,13 +4,15 @@
 
 It lets you visually align the horizon and exports the rotation offsets in the expected **Uptale format**.
 
+▶️ [Video demonstration](https://youtu.be/UPCoQVvhDTU)
+
 ---
 
 ## 🖥️ Desktop Controls
 
 🔄 **Rotation Controls**
 
-- `Q` / `E`  (azerty `A` / `E`) → Rotate 90° **Yaw**
+- `Q` / `E` (azerty `A` / `E`) → Rotate 90° **Yaw**
 - `1` → Activate **Pitch** control
 - `2` → Activate **Yaw** control
 - `3` → Activate **Roll** control
@@ -20,14 +22,12 @@ It lets you visually align the horizon and exports the rotation offsets in the e
 🖼️ **Image Workflow**
 
 - Place your 360 image in:
-    
-    `fixHorizon360_Data/Assets/StreamingAssets/360/`
-    
+  `fixHorizon360_Data/Assets/StreamingAssets/360/`
 - Click the **LoadImage** button in the UI
 - Click **SaveToDisk** to export a `.json` with Uptale-compatible rotation:
-    - **Vertical Axis (Y)**
-    - **Horizontal Axis (X)**
-    - **Frontal Axis (Z)**
+  - **Vertical Axis (Y)**
+  - **Horizontal Axis (X)**
+  - **Frontal Axis (Z)**
 
 ---
 
@@ -39,12 +39,10 @@ It lets you visually align the horizon and exports the rotation offsets in the e
 
 - ✊ **Grip a cube (red/green/blue)** to rotate the image on the corresponding axis (pitch/yaw/roll)
 - 🎯 Make sure the **center sphere** is visible to apply rotations as you handle the cubes
-    
-    → Toggle it with **Right Controller A button**
-    
+  → Toggle it with **Right Controller A button**
 - Left controller `Y` / `X` → Rotate 90° **Yaw**
 - 🎯 **Recenter the view** with **Right Stick Press**
-    
-    *(Avoid recentering while gripping a cube!)*
+
+  _(Avoid recentering while gripping a cube!)_
 
 - ⌗ **Toggle On/Off the floor grid** with **Left Stick Press**
